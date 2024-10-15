@@ -1,0 +1,1 @@
+import{o as e,c as a,w as t,a as o,b as s,u as r,i as c}from"./app-BmMnv7Hf.js";import{A as i}from"./ApplicationLogo-D_o_S5Vs.js";const n={class:"flex items-center"},d={__name:"AuthenticationCardLogo",setup(_){return(p,f)=>(e(),a(r(c),{href:"/"},{default:t(()=>[o("div",n,[s(i)])]),_:1}))}};export{d as _};

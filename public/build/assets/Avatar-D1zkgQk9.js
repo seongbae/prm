@@ -1,0 +1,1 @@
+import{o as t,h as e,n}from"./app-BmMnv7Hf.js";const s=["innerHTML"],c=["src"],i={__name:"Avatar",props:{data:Object,imgClasses:String},setup(a){return(r,l)=>a.data.type==="svg"?(t(),e("div",{key:0,innerHTML:a.data.content},null,8,s)):(t(),e("img",{key:1,class:n(a.imgClasses),src:a.data.content,alt:"avatar"},null,10,c))}};export{i as _};
